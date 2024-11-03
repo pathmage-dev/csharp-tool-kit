@@ -1,0 +1,8 @@
+**/.vscode
+**/.idea
+**/*DotSettings*
+
+**/bin
+**/obj
+
+**/*.txt
