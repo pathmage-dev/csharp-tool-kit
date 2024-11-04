@@ -1,4 +1,6 @@
-﻿namespace ToolKit.Testspace.Debug;
+﻿using System.Threading;
+
+namespace ToolKit.Testspace.Debug;
 
 public class ConsoleOutputInterface
 {
